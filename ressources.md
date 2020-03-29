@@ -9,6 +9,14 @@ title: "Ressources pour enfant 1-2H"
 
 - Journal de bord : [Ecole](./Journal-bord-1P-pdf.pdf)
 
+## Ecoles
+
+Du contenu mis en place par des professeurs d'écoles
+
+- Plan de semaine et exercices : [Classe de Morrens](https://www.10pages.ch/category/actualites/)
+- Calendrier et contenus mis en ligne par la commune d'Avenches : [Ecole Avenches](https://www.ecoles-avenches.ch/enseignement-a-distance/)
+-
+
 ## Bricolages
 
 - Sable magique : [Youtube](https://www.youtube.com/watch?v=IvBckF_yRA4)
@@ -40,6 +48,7 @@ title: "Ressources pour enfant 1-2H"
 ## Lecture
 
 - [Littérature jeunesse libre](https://litterature-jeunesse-libre.fr/bbs/)
+- [Liste de manuels scolaires gratuits pendant la fermeture des écoles](https://outilstice.com/2020/03/tous-les-manuels-scolaires-disponibles-gratuitement-en-ligne-pendant-la-fermeture-des-ecoles/#gs.267czo)
 
 ## Films
 
