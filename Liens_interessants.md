@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: default
 title: "Ressources diverses"
 permalink: /ressources/
 ---
 
-# Resources pour enfant 1-2H
+# Ressources pour enfant 1-2H
 
 ## Suivi cours
 
