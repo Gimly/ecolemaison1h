@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Ressources diverses"
+title: "Ressources pour enfant 1-2H"
 ---
 
 # Ressources pour enfant 1-2H
@@ -21,6 +21,7 @@ title: "Ressources diverses"
 - Exercices éducatifs tous niveaux : [Pepit.be](http://www.pepit.be/)
 - Soutien scolaire en ligne : [IXL](https://fr.ixl.com/)
 - Exercices tous niveaux : [Lulu la taupe](https://lululataupe.com/)
+- Jeux éducatifs : [Smart Games](https://www.smartgames.eu/fr/essayez-smartgames-en-ligne)
 
 ## Chaînes Youtube
 
@@ -28,7 +29,17 @@ title: "Ressources diverses"
 
 ## Histoires à écouter
 
-- Plein de liens vers des histoires et autre à écouter : [Comment occuper ses enfants à la maison grâce aux contenus géniaux que l’on peut trouver sur le Net ?](https://taleming.com/occuper-enfants-maison-coronavirus/?fbclid=IwAR2BTC-YsrdPr7JR_F8OD5R_e3JMmys_CLa9pHtmLkGk0lNtm1HCIT0ZKbI)
+- Emission radio pour enfants : [Une histoire et Oli](https://www.franceinter.fr/emissions/une-histoire-et-oli)
+- Divers histoires : [Une histoire chaque jour](https://une-histoire-chaque-jour.com/toutes-nos-histoires-pour-enfants/)
+
+## Gymnastique
+
+- Exercices divers pour enfants : [L'école bouge](https://www.schulebewegt.ch/fr/specials-sets/chez-soi-c-1-2?scrollPos=0)
+- Brochures avec exercices : [Youp'là bouge](https://www.youplabouge.ch/documentation/)
+
+## Lecture
+
+- [Littérature jeunesse libre](https://litterature-jeunesse-libre.fr/bbs/)
 
 ## Films
 
@@ -38,3 +49,4 @@ title: "Ressources diverses"
 ## Divers
 
 - Plein de ressources : [Papa positive](https://papapositive.fr/)
+- Une liste de ressources collaboratives : [Comment occuper ses enfants à la maison grâce aux contenus géniaux que l’on peut trouver sur le Net ?](https://taleming.com/occuper-enfants-maison-coronavirus/?fbclid=IwAR2BTC-YsrdPr7JR_F8OD5R_e3JMmys_CLa9pHtmLkGk0lNtm1HCIT0ZKbI)
