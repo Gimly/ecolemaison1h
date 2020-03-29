@@ -15,7 +15,6 @@ Du contenu mis en place par des professeurs d'écoles
 
 - Plan de semaine et exercices : [Classe de Morrens](https://www.10pages.ch/category/actualites/)
 - Calendrier et contenus mis en ligne par la commune d'Avenches : [Ecole Avenches](https://www.ecoles-avenches.ch/enseignement-a-distance/)
--
 
 ## Bricolages
 
