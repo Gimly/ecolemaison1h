@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Plan de la semaine du 30 mars au 5 avril 2020
 
 ## Lundi

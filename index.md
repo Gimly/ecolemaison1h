@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Ecole à la maison 1H"
+title: 'Ecole à la maison 1H'
 ---
 
 ## Introduction
@@ -13,5 +13,6 @@ celui que nous recevons de son école.
 
 ## Table des matières
 
-* [Liste de ressources intéressantes](/ressources)
-
+- [Liste de ressources intéressantes](./ressources.md)
+- Plan des semaines
+    - [Semaine du 30 mars au 5 avril](./Plan/30_mars-5_avril.md)
