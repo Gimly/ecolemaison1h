@@ -43,6 +43,8 @@ Du contenu mis en place par des professeurs d'écoles
 
 - Exercices divers pour enfants : [L'école bouge](https://www.schulebewegt.ch/fr/specials-sets/chez-soi-c-1-2?scrollPos=0)
 - Brochures avec exercices : [Youp'là bouge](https://www.youplabouge.ch/documentation/)
+- [Gym des Titounis](https://www.youtube.com/watch?v=AZmDKAHICLU&list=PL8Mfzkj8FPJvEDIYWWerRRfVeiKywGEqY)
+- Rester en forme avec les enfants : [Gym direct](https://www.youtube.com/watch?v=aBGFlp2X3jE)
 
 ## Lecture
 
