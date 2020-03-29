@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Ressources diverses"
-permalink: /ressources/
 ---
 
 # Ressources pour enfant 1-2H
