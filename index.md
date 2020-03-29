@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ecole à la maison 1H
+title: "Ecole à la maison 1H"
 ---
 
 ## Introduction

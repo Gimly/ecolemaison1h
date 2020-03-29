@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Ressources diverses"
+permalink: /ressources/
+---
+
 # Resources pour enfant 1-2H
 
 ## Suivi cours
