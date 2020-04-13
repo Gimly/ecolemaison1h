@@ -16,3 +16,4 @@ celui que nous recevons de son école.
 - [Liste de ressources intéressantes](./ressources.md)
 - Plan des semaines
   - [Semaine du 30 mars au 5 avril](./Plan/30_mars-5_avril.md)
+  - [Semaine du 13 au 17 avril](./Plan/30_mars-5_avril.md)
